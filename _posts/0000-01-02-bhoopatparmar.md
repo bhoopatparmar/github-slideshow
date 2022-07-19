@@ -1,1 +1,11 @@
-This is a new file while learning Git-Hub
+---
+
+layout: slide
+
+title: "Welcome to our second slide!"
+
+---
+
+Your text
+
+Use the left arrow to go back!
